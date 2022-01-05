@@ -9,5 +9,3 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am an Electrical Engineer
 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=nnamansingh &theme=radical)
