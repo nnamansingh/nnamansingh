@@ -1,7 +1,7 @@
 ### Heyy, I am Naman Kumar Singh 👋
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working as a Web Developer
+- 🌱 My programming language is PYTHON
 - 👯 I’m looking to collaborate on Open Source Projects on Python
 - 🤔 I’m looking for help from anyone
 - 💬 Ask me about anything
